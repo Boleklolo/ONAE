@@ -43,7 +43,7 @@ You can make your own version in minutes:
 ### Run
 
 ```bash
-python main.py
+python gra.py
 ```
 ### 📦 Download
 
